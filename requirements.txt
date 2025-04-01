@@ -1,0 +1,6 @@
+vtk
+sympy
+numpy
+myVTKPythonLibrary
+ipywidgets
+itkwidgets
